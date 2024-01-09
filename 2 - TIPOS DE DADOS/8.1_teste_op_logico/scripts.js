@@ -1,0 +1,1 @@
+console.log(!(50 > 69 || 69 > 24)); // aqui o primeiro resultado dá TRUE, pois basta apenas um lado ser true para resultar em true. Após isso, inseri um !not isolando a equação com parênteses, o que inverteu a resposta para FALSE.
